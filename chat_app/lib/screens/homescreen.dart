@@ -25,7 +25,7 @@ class _HomeScreenState extends State<HomeScreen>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Whatsapp Clone'),
+        title: Text('WhatsApp Clone'),
         actions: [
           IconButton(onPressed: () {}, icon: Icon(Icons.search)),
           PopupMenuButton<String>(onSelected: (value) {
