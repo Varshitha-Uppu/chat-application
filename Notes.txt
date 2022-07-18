@@ -1,4 +1,0 @@
-Mixins
-    A mixin is a class whose methods and properties can be used by other classes – without subclassing. 
-    It's a reusable chunk of code that can be “plugged in” to any class that needs this functionality. 
-    Mixins are supported by Dart, and Flutter uses them in many places.
