@@ -15,8 +15,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'OpenSans',
         colorScheme: ColorScheme.light().copyWith(
-          primary: Color(0xFF075E54),
-          secondary: Color(0xFF128C7E),
+          primary: Color(0xFF00A884),
+          secondary: Color(0xFF00A884),
         ),
       ),
       home: HomeScreen(),
